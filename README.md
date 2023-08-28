@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=black&color=auto&height=300&section=header&text=SteadyBoy's%20GitHub&fontSize=70&animation=twinkling&fontAlignY=40)
 <div>
 
-### Hi there 👋 <img align="right" width="70" src="https://media.giphy.com/media/fSvqyvXn1M3btN8sDh/giphy.gif" />
+### Hi there 👋<img align="right" width="70" src="https://media.giphy.com/media/fSvqyvXn1M3btN8sDh/giphy.gif" />
 <a href="https://github.com/Dev-steadyBoy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-steadyBoy&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a><a href="https://blog.naver.com/dev_drp"><img src="https://img.shields.io/badge/네이버블로그-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </a>
 <img align="right" src="https://img.shields.io/badge/FE devloper-black?style=flat-square&logo=dev.to&logoColor=white"/>
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh10555">
+<br>
+
 - ⚡ Fun fact: Nice to meet you🥰
 - 🌱 I’m currently learning JS, REACT, HTML, CSS, Computer Science
 - 🌱 I’m currently learning Algorithm
